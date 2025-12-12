@@ -48,8 +48,8 @@ class MainActivity : AppCompatActivity() {
         webView.webViewClient = WebViewClient()
         webView.webChromeClient = WebChromeClient()
         
-        // Load portfolio from assets
-        webView.loadUrl("file:///android_asset/portfolio/index.html")
+        // Load portfolio from GitHub Pages (live updates)
+        webView.loadUrl("https://hpx07.github.io/portfolio-v2/")
     }
     
     private fun hideSystemUI() {
