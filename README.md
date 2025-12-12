@@ -162,4 +162,4 @@ For questions or support, please contact through the portfolio contact form.
 
 ---
 
-**Built with ❤️ using Kotlin and WebView**
+**Built Kotlin and WebView by [HPX07](https://github.com/hpx07)**
